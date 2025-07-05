@@ -1,0 +1,4 @@
+\beamer@sectionintoc {2}{QM7-X Dataset}{3}{0}{1}
+\beamer@sectionintoc {3}{3D Wavelet Scattering Approach}{6}{0}{2}
+\beamer@sectionintoc {4}{Transformer-Based Approach}{13}{0}{3}
+\beamer@sectionintoc {5}{Conclusion}{21}{0}{4}
